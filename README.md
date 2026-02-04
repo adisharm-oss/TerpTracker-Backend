@@ -2,6 +2,22 @@
 
 TerpTracker is a Python-based backend that helps UMD students have accurate calorie and protein information from campus dining halls by scraping data directly from UMD’s nutrition website.
 
+## How to Run
+
+### Requirements
+- Python 3.x  
+- requests  
+- beautifulsoup4  
+
+Install dependencies:
+```bash
+pip install requests beautifulsoup4
+```
+
+Run the program:
+```bash
+python terptracker.py
+```
 ## How It Works
 
 1. Displays a welcome message  
