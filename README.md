@@ -10,7 +10,7 @@ TerpTracker is a Python-based backend that helps UMD students have accurate calo
 4. Fetches and parses the menu page  
 5. Lists all available food items  
 6. Prompts the user to search for a food  
-7. Matches the input against menu items (case-insensitive)  
+7. Matches the input against menu items  
 8. Follows the nutrition link for the selected item  
 9. Extracts and displays calorie and protein values  
 
