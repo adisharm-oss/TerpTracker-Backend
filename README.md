@@ -31,4 +31,4 @@ python terptracker.py
 9. Extracts and displays calorie and protein values  
 
 ## Motivation
-UMD dining hall nutrition data isn’t always easy to access before eating. TerpTracker lowers this barrier by turning scattered web data into a simple, interactive workflow that helps students make more informed nutrition decisions.
+UMD dining hall nutrition data isn’t always easy to access before eating. TerpTracker lowers this barrier by turning scattered web data into a simple, easy-to-use interface that helps students make more informed nutrition decisions.
